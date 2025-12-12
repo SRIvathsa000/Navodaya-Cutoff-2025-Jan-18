@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Phone, MapPin, Menu, X, Share2, Award, User, Users, BarChart2 } from 'lucide-react';
+import { Phone, MapPin, Menu, X, Award, User, Users, BarChart2 } from 'lucide-react';
 
 // Custom WhatsApp Icon Component
 const WhatsAppIcon = ({ className }) => (
